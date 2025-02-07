@@ -46,32 +46,5 @@
                 "Server": "FORS"
             }
         ]
-    },
-    "RN": {
-        "Assembly": [
-            {
-                "Segment": "asdasd",
-                "Codificare linie fabricatie": "asdasd",
-                "Denumire linie": "asdasd",
-                "Nume linie fabricatie": "asdasdwq",
-                "Server": "asdqwd"
-            }
-        ],
-        "CST&WPA": [
-            {
-                "Segment": "",
-                "Codificare linie fabricatie": "1651",
-                "Denumire linie": "Automatic",
-                "Nume linie fabricatie": "Line 1651",
-                "Server": "FORS"
-            },
-            {
-                "Segment": "",
-                "Codificare linie fabricatie": "1652",
-                "Denumire linie": "Preparation",
-                "Nume linie fabricatie": "Line 1652",
-                "Server": "FORS"
-            }
-        ]
     }
 }
