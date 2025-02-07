@@ -13,7 +13,9 @@
             }
         },
         "fery": {
-            "files": {}
+            "files": {
+                "Maro": null
+            }
         }
     },
     "Paths": {
