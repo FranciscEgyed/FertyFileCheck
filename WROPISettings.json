@@ -1,0 +1,50 @@
+{
+    "Mercedes": {
+        "Assembly": [
+            {
+                "Segment": "Seg. MRA",
+                "Codificare linie fabricatie": "1000",
+                "Denumire linie": "X/C 254 MRA",
+                "Nume linie fabricatie": "Line 100",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg. COCKPIT",
+                "Codificare linie fabricatie": "1001",
+                "Denumire linie": "X/C 254 COCKPIT",
+                "Nume linie fabricatie": "Line 101",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg. MRA",
+                "Codificare linie fabricatie": "1002",
+                "Denumire linie": "295/297 EVA2 MRA",
+                "Nume linie fabricatie": "Line 102",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg. COCKPIT",
+                "Codificare linie fabricatie": "1003",
+                "Denumire linie": "295/297 EVA2 COCKPIT",
+                "Nume linie fabricatie": "Line 103",
+                "Server": "FORS"
+            }
+        ],
+        "CST&WPA": [
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1651",
+                "Denumire linie": "Automatic",
+                "Nume linie fabricatie": "Line 1651",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1652",
+                "Denumire linie": "Preparation",
+                "Nume linie fabricatie": "Line 1652",
+                "Server": "FORS"
+            }
+        ]
+    }
+}
