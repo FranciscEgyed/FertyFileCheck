@@ -5,17 +5,11 @@
                 "Maro": null,
                 "Indexes": null
             }
-        },
-        "1234": {
-            "files": {
-                "Maro": null,
-                "Indexes": null
-            }
         }
     },
     "Paths": {
-        "Save": "C:/Users/Wana/Downloads/VM",
-        "Load": "C:/Users/Wana/Desktop/WROBI",
-        "Errors": "C:/Users/Wana/Downloads"
+        "Save": "C:/Users/egfr1001/Desktop/Digitalizare/WWW",
+        "Load": "C:/Users/egfr1001/Desktop/Digitalizare/Fisiere ajutatoare/WROBI",
+        "Errors": "C:/Users/egfr1001/Desktop/Digitalizare"
     }
 }
