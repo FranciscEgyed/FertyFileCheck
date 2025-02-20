@@ -3,6 +3,13 @@
         "Assembly": [
             {
                 "Segment": "Seg XXX",
+                "Codificare linie fabricatie": "1114",
+                "Denumire linie": "XXX4",
+                "Nume linie fabricatie": "Line 4",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg XXX",
                 "Codificare linie fabricatie": "1113",
                 "Denumire linie": "XXX3",
                 "Nume linie fabricatie": "Line 3",
