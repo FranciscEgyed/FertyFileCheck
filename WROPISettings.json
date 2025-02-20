@@ -3,10 +3,17 @@
         "Assembly": [
             {
                 "Segment": "Seg. MRA",
-                "Codificare linie fabricatie": "1000",
-                "Denumire linie": "X/C 254 MRA",
-                "Nume linie fabricatie": "Line 100",
+                "Codificare linie fabricatie": "1",
+                "Denumire linie": "1",
+                "Nume linie fabricatie": "111",
                 "Server": "FORS"
+            },
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "",
+                "Denumire linie": "",
+                "Nume linie fabricatie": "",
+                "Server": ""
             },
             {
                 "Segment": "Seg. COCKPIT",
