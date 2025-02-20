@@ -78,5 +78,39 @@
     "Paths": {
         "Save": "C:/Users/Wana/Desktop/WROPI Output",
         "Load": "F:/Resources/PITESTI/Master_files"
+    },
+    "RN": {
+        "Assembly": [
+            {
+                "Segment": "Assembly Tg Jiu",
+                "Codificare linie fabricatie": "110",
+                "Denumire linie": "Schunt Mastervac (318), AIRBAG (110), AUDIO (120)",
+                "Nume linie fabricatie": "Line 110",
+                "Server": "SIGIP"
+            },
+            {
+                "Segment": "Assembly Pitesti",
+                "Codificare linie fabricatie": "302+500+501+502+705",
+                "Denumire linie": "Proto + Piese Schimb",
+                "Nume linie fabricatie": "Line 500",
+                "Server": "SIGIP"
+            }
+        ],
+        "CST&WPA": [
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1651",
+                "Denumire linie": "Automatic",
+                "Nume linie fabricatie": "Line 1651",
+                "Server": "SIGIP"
+            },
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1652",
+                "Denumire linie": "Preparation",
+                "Nume linie fabricatie": "Line 1652",
+                "Server": "SIGIP"
+            }
+        ]
     }
 }
