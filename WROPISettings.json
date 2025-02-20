@@ -49,20 +49,6 @@
                 "Denumire linie": "295/297 EVA2 COCKPIT",
                 "Nume linie fabricatie": "Line 103",
                 "Server": "FORS"
-            },
-            {
-                "Segment": "",
-                "Codificare linie fabricatie": "1651",
-                "Denumire linie": "Automatic",
-                "Nume linie fabricatie": "Line 1651",
-                "Server": "FORS"
-            },
-            {
-                "Segment": "",
-                "Codificare linie fabricatie": "1652",
-                "Denumire linie": "Preparation",
-                "Nume linie fabricatie": "Line 1652",
-                "Server": "FORS"
             }
         ],
         "CST&WPA": [
