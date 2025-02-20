@@ -112,5 +112,60 @@
                 "Server": "SIGIP"
             }
         ]
+    },
+    "PANAMERA": {
+        "Assembly": [
+            {
+                "Segment": "Seg 2",
+                "Codificare linie fabricatie": "1001",
+                "Denumire linie": "AUTARKE",
+                "Nume linie fabricatie": "Line 104",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg 2",
+                "Codificare linie fabricatie": "1004",
+                "Denumire linie": "SCAUNE",
+                "Nume linie fabricatie": "Line 103",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg 2",
+                "Codificare linie fabricatie": "1002",
+                "Denumire linie": "USI",
+                "Nume linie fabricatie": "Line 102",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg 2",
+                "Codificare linie fabricatie": "1003",
+                "Denumire linie": "COCKPIT",
+                "Nume linie fabricatie": "Line 103",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "Seg 2",
+                "Codificare linie fabricatie": "1000",
+                "Denumire linie": "FGR MODULE+CARUSEL",
+                "Nume linie fabricatie": "Line 100",
+                "Server": "FORS"
+            }
+        ],
+        "CST&WPA": [
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1651",
+                "Denumire linie": "Automatic",
+                "Nume linie fabricatie": "Line 1651",
+                "Server": "FORS"
+            },
+            {
+                "Segment": "",
+                "Codificare linie fabricatie": "1652",
+                "Denumire linie": "Preparation",
+                "Nume linie fabricatie": "Line 1652",
+                "Server": "FORS"
+            }
+        ]
     }
 }
