@@ -16,8 +16,8 @@
         }
     },
     "Paths": {
-        "Save": "C:/Users/madu1003/Desktop/masterdata1",
-        "Load": "G:/BU-DC/IE/101.EVA2_LV",
-        "Errors": "//svro1mbjit01/DataImport/MasterData/RATIO"
+        "Save": "C:/Users/egfr1001/Desktop/New folder",
+        "Load": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB",
+        "Errors": "C:/Users/egfr1001/Desktop/New folder"
     }
 }
