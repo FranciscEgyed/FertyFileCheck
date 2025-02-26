@@ -16,7 +16,7 @@
         }
     },
     "Paths": {
-        "VM": null,
+        "VM": "C:/Users/Wana/Desktop/BI",
         "Save": "C:/Users/Wana/Desktop/BI out",
         "Errors": "C:/Users/Wana/Desktop/BI out/Logs",
         "WM": "C:/Users/Wana/Desktop/BI"
