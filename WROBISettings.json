@@ -1,24 +1,24 @@
 {
     "Projects": {
-        "295": {
+        "v206": {
             "files": {
-                "Maro": "C:/Users/Wana/Desktop/BI/v295",
-                "Indexes": "C:/Users/Wana/Desktop/BI/v295",
-                "Materiale": "C:/Users/Wana/Desktop/BI/v295"
+                "Maro": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206",
+                "Indexes": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206",
+                "Materiale": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206"
             }
         },
-        "206": {
+        "v295": {
             "files": {
-                "Maro": "C:/Users/Wana/Desktop/BI/v206",
-                "Indexes": "C:/Users/Wana/Desktop/BI/v206",
-                "Materiale": "C:/Users/Wana/Desktop/BI/v206"
+                "Materiale": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v295",
+                "Indexes": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v295",
+                "Maro": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v295"
             }
         }
     },
     "Paths": {
         "VM": "C:/Users/Wana/Desktop/BI",
-        "Save": "C:/Users/Wana/Desktop/BI out",
-        "Errors": "C:/Users/Wana/Desktop/BI out/Logs",
+        "Save": "C:/Users/egfr1001/Desktop/Projects/New folder",
+        "Errors": "C:/Users/egfr1001/Desktop/Projects/New folder/Logs",
         "WM": "C:/Users/Wana/Desktop/BI"
     }
 }
