@@ -2,27 +2,15 @@
     "Projects": {
         "295": {
             "files": {
-                "Maro": null,
-                "Indexes": null,
-                "Materiale": null
-            }
-        },
-        "206": {
-            "files": {
-                "Maro": null,
-                "Indexes": null,
-                "Materiale": null
-            }
-        },
-        "1": {
-            "files": {
-                "Maro": "C:/Users/Wana/Desktop/BI/v295"
+                "Maro": "C:/Users/Wana/Desktop/BI/v295",
+                "Indexes": "C:/Users/Wana/Desktop/BI/v295",
+                "Materiale": "C:/Users/Wana/Desktop/BI/v295"
             }
         }
     },
     "Paths": {
-        "Save": "C:/Users/egfr1001/Desktop/New folder",
+        "Save": "C:/Users/Wana/Desktop/BI out",
         "Load": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB",
-        "Errors": "C:/Users/egfr1001/Desktop/New folder"
+        "Errors": "C:/Users/Wana/Desktop/BI out/Logs"
     }
 }
