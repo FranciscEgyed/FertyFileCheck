@@ -1,8 +1,8 @@
 {
     "Paths": {
-        "Headcount": null,
-        "Machines": null,
-        "Targets": null,
-        "CAOFile": null
+        "Headcount": "C:/Users/Wana/Desktop/CST/headcount cutting.xlsx",
+        "Machines": "C:/Users/Wana/Desktop/CST/Masini CST.xlsx",
+        "Targets": "C:/Users/Wana/Desktop/CST/Targets.xlsx",
+        "CAOFile": "C:/Users/Wana/Desktop/CST/File12.xlsx"
     }
 }
