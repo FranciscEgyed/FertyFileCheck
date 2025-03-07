@@ -1,17 +1,17 @@
 {
     "Projects": {
-        "v206": {
+        "206": {
             "files": {
-                "Maro": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206",
-                "Indexes": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206",
-                "Materiale": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB/v206"
+                "Maro": "H:/Master Data Bistrita MB/v206",
+                "Indexes": "H:/Master Data Bistrita MB/v206",
+                "Materiale": "H:/Master Data Bistrita MB/v206"
             }
         }
     },
     "Paths": {
         "VM": "C:/Users/egfr1001/Desktop/Projects/WROBI/Master Data Bistrita MB",
-        "Save": "C:/Users/egfr1001/Desktop/Projects/New folder",
-        "Errors": "C:/Users/egfr1001/Desktop/Projects/New folder/Logs",
+        "Save": "H:/Master Data Bistrita MB/OUTPUT",
+        "Errors": "H:/Master Data Bistrita MB/OUTPUT/Logs",
         "WM": "C:/Users/Wana/Desktop/BI"
     }
 }
