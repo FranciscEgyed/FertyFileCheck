@@ -1,8 +1,8 @@
 {
     "Paths": {
-        "Headcount": "C:/Users/egfr1001/Desktop/Projects/WROAR/CST OEE/Files/headcount cutting.xlsx",
-        "Machines": "C:/Users/egfr1001/Desktop/Projects/WROAR/CST OEE/Files/Masini CST.xlsx",
-        "Targets": "C:/Users/egfr1001/Desktop/Projects/WROAR/CST OEE/Files/Targets.xlsx",
-        "CAOFile": "C:/Users/egfr1001/Desktop/Projects/WROAR/CST OEE/Files/BU"
+        "Headcount": "C:/Users/Wana/Desktop/CST/headcount cutting.xlsx",
+        "Machines": "C:/Users/Wana/Desktop/CST/Masini CST.xlsx",
+        "Targets": "C:/Users/Wana/Desktop/CST/Targets.xlsx",
+        "CAOFile": "C:/Users/Wana/Desktop/CST"
     }
 }
