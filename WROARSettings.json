@@ -1,8 +1,8 @@
 {
     "Paths": {
-        "Headcount": "C:/Users/Wana/Desktop/CST/headcount cutting.xlsx",
-        "Machines": "C:/Users/Wana/Desktop/CST/Masini CST.xlsx",
-        "Targets": "C:/Users/Wana/Desktop/CST/Targets.xlsx",
-        "CAOFile": "C:/Users/Wana/Desktop/CST"
+        "Headcount": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/headcount cutting.xlsx",
+        "Machines": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/Masini CST.xlsx",
+        "Targets": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/Targets.xlsx",
+        "CAOFile": "C:/Users/egfr1001/Desktop/Projects/WROAR/CST OEE"
     }
 }
