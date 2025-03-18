@@ -4,6 +4,7 @@
         "Machines": "C:/Users/Wana/Desktop/CST/Masini CST.xlsx",
         "Targets": "C:/Users/Wana/Desktop/CST/Targets.xlsx",
         "CAOFile": "C:/Users/Wana/Desktop/CST/source.csv",
-        "Output": "C:/Users/Wana/Desktop/CST/source.csv"
+        "Output": "C:/Users/Wana/Desktop/CST/source.csv",
+        "LogData": "C:/Users/Wana/Desktop/CST/logger.csv"
     }
 }
