@@ -1,10 +1,6 @@
 {
     "Paths": {
-        "Headcount": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/headcount cutting.xlsx",
-        "Machines": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/Masini CST.xlsx",
-        "Targets": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/Targets.xlsx",
-        "CAOFile": "C:/Users/egfr1001/Desktop",
-        "Output": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/16. Analiza Setup time/Ferczi/Dashboard/Source/source.csv",
-        "LogData": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/16. Analiza Setup time/Ferczi/Dashboard/Source/logger.csv"
+        "Save Folder": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/headcount cutting.xlsx",
+        "Components": "//svro2file01/groups/Operations-WO/05.Lead Prep/05.01 Production/05.01.02 Cst/OEE/15. OEE weekly meeting/Masini CST.xlsx",
     }
 }
