@@ -2,6 +2,13 @@
     "Mercedes": {
         "Assembly": [
             {
+                "Segment": "Seg. MRA",
+                "Codificare linie fabricatie": "3214",
+                "Denumire linie": "XXSdsadsadas",
+                "Nume linie fabricatie": "Line 6",
+                "Server": "Fors"
+            },
+            {
                 "Segment": "Seg XXX",
                 "Codificare linie fabricatie": "1114",
                 "Denumire linie": "XXX4",
